@@ -1,6 +1,6 @@
 {
-	"Name": "New Blood,First Blood League",
-	"Version": 1731521654,
+	"Name": "New Blood,First Blood League (16/11/24)",
+	"Version": 1731792217,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "1.Use of Chests Is Not Allowed\n2.Use of Anti-Camp Is Not Allowed\n3.Body-blocking Is Allowed As Long As It Is Not A Narrow Corridor Or Doorway (They Cannot Be Corner Trapped Etc) If This Occurs The Killer Can Only Hold The Survivor For A Maximum Of 10 Seconds",
 	"Tiers": [
@@ -3917,9 +3917,7 @@
 			"KillerNotes": "Offerings Are As Follows:\n\n Killer: 1x Cut Coin\n\n 1x Annotated Blueprint\n 1x Bloodied Blueprint\n 1x Vigo's Shroud\n 1x Shroud Of Binding",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"42",
-				"6",
+				"5",
 				"8"
 			],
 			"BalanceTiers": [
@@ -4594,7 +4592,6 @@
 			"KillerNotes": "Offerings Are As Follows:\n\n Killer: 1x Cut Coin\n\n Survivor:\n \n 1x Annotated Blueprint\n 1x Bloodied Blueprint\n 1x Vigo's Shroud\n 1x Shroud Of Binding",
 			"IsDisabled": false,
 			"Map": [
-				"6",
 				"33"
 			],
 			"BalanceTiers": [
@@ -5005,7 +5002,8 @@
 				618,
 				613,
 				614,
-				611
+				611,
+				607
 			],
 			"ItemWhitelist": [
 				0,
