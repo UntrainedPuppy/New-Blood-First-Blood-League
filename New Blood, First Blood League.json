@@ -1,6 +1,6 @@
 {
-	"Name": "New Blood,First Blood League NEW BETA TESTERS. (26/11/24)",
-	"Version": 1732643128,
+	"Name": "New Blood,First Blood League NEW BETA TESTERS. (28/11/24)",
+	"Version": 1732930515,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "1.Use of Chests Is Not Allowed\n2.Use of Anti-Camp Is Not Allowed\n3.Body-blocking Is Allowed As Long As It Is Not A Narrow Corridor Or Doorway (They Cannot Be Corner Trapped Etc) If This Occurs The Killer Can Only Hold The Survivor For A Maximum Of 10 Seconds",
 	"Tiers": [
@@ -189,6 +189,26 @@
 				[
 					"36",
 					"121"
+				],
+				[
+					"67",
+					"76"
+				],
+				[
+					"36",
+					"80"
+				],
+				[
+					"36",
+					"48"
+				],
+				[
+					"36",
+					"38"
+				],
+				[
+					"36",
+					"84"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -658,6 +678,26 @@
 				[
 					"36",
 					"121"
+				],
+				[
+					"36",
+					"48"
+				],
+				[
+					"67",
+					"76"
+				],
+				[
+					"36",
+					"80"
+				],
+				[
+					"36",
+					"38"
+				],
+				[
+					"48",
+					"84"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -966,6 +1006,26 @@
 				[
 					"36",
 					"121"
+				],
+				[
+					"36",
+					"38"
+				],
+				[
+					"36",
+					"80"
+				],
+				[
+					"36",
+					"84"
+				],
+				[
+					"48",
+					"84"
+				],
+				[
+					"67",
+					"76"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -1432,6 +1492,26 @@
 				[
 					"36",
 					"121"
+				],
+				[
+					"67",
+					"76"
+				],
+				[
+					"36",
+					"80"
+				],
+				[
+					"48",
+					"84"
+				],
+				[
+					"36",
+					"38"
+				],
+				[
+					"36",
+					"84"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -1894,6 +1974,26 @@
 				[
 					"36",
 					"121"
+				],
+				[
+					"36",
+					"84"
+				],
+				[
+					"36",
+					"38"
+				],
+				[
+					"36",
+					"80"
+				],
+				[
+					"48",
+					"84"
+				],
+				[
+					"67",
+					"76"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -2311,6 +2411,26 @@
 				[
 					"36",
 					"121"
+				],
+				[
+					"67",
+					"76"
+				],
+				[
+					"36",
+					"38"
+				],
+				[
+					"36",
+					"80"
+				],
+				[
+					"48",
+					"84"
+				],
+				[
+					"36",
+					"84"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -2784,6 +2904,26 @@
 				[
 					"36",
 					"121"
+				],
+				[
+					"36",
+					"38"
+				],
+				[
+					"36",
+					"84"
+				],
+				[
+					"48",
+					"84"
+				],
+				[
+					"36",
+					"80"
+				],
+				[
+					"67",
+					"76"
 				]
 			],
 			"KillerComboPerkBans": [
