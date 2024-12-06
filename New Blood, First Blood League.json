@@ -1,6 +1,6 @@
 {
-	"Name": "New Blood,First Blood League NEW BETA TESTERS. (05/12/24)",
-	"Version": 1733323208,
+	"Name": "New Blood,First Blood League NEW BETA TESTERS. (10/12/24)",
+	"Version": 1733488986,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "1.Use of Chests Is Not Allowed\n2.Use of Anti-Camp Is Not Allowed\n3.Body-blocking Is Allowed As Long As It Is Not A Narrow Corridor Or Doorway (They Cannot Be Corner Trapped Etc) If This Occurs The Killer Can Only Hold The Survivor For A Maximum Of 10 Seconds",
 	"Tiers": [
@@ -3304,6 +3304,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"4",
+				"16",
 				"17",
 				"33",
 				"37",
@@ -4276,18 +4277,40 @@
 				7
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"158",
-				"233"
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"158",
+					"233"
+				],
+				[
+					"224",
+					"233"
+				],
+				[
+					"158",
+					"166"
+				]
 			],
-			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"53",
 				"121"
 			],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
-			"SurvivorWhitelistedComboPerks": [],
+			"SurvivorWhitelistedPerks": [
+				"24",
+				"128"
+			],
+			"SurvivorWhitelistedComboPerks": [
+				[
+					"24",
+					"128"
+				],
+				[
+					"21",
+					"24"
+				]
+			],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
@@ -4644,7 +4667,7 @@
 			"IsDisabled": false,
 			"Map": [
 				"8",
-				"11"
+				"34"
 			],
 			"BalanceTiers": [
 				4
@@ -4657,7 +4680,21 @@
 				"192"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"7",
+				"16",
+				"21",
+				"30",
+				"34",
+				"36",
+				"37",
+				"40",
+				"48",
+				"53",
+				"76",
+				"102",
+				"121"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -4667,9 +4704,7 @@
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
 				0,
-				4,
-				8,
-				15
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -4681,14 +4716,10 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": [
-						2
-					]
+					"Addons": []
 				},
 				"Toolbox": {
-					"Addons": [
-						0
-					]
+					"Addons": []
 				},
 				"Key": {
 					"Addons": []
@@ -5021,35 +5052,61 @@
 		},
 		{
 			"Name": "The Artist",
-			"KillerNotes": "",
-			"IsDisabled": true,
+			"KillerNotes": "Killer Offering: Cut Coin\n\nSurvivor Offerings:\n\n1x Annotated Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud\n1x Shroud Of Binding\n",
+			"IsDisabled": false,
 			"Map": [
-				0
+				"5",
+				"8",
+				"13"
 			],
 			"BalanceTiers": [
-				0
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"192",
+				"200"
+			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"7",
+				"16",
+				"21",
+				"28",
+				"34",
+				"36",
+				"40",
+				"107",
+				"121",
+				"127"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				515,
+				517,
+				518,
+				513
+			],
+			"ItemWhitelist": [
+				4,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -5064,8 +5121,18 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Onryo",
