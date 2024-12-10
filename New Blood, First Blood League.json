@@ -1,6 +1,6 @@
 {
-	"Name": "New Blood,First Blood League NEW BETA TESTERS. (10/12/24)",
-	"Version": 1733488986,
+	"Name": "New Blood,First Blood League NEW BETA TESTERS. (11/12/24)",
+	"Version": 1733824524,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "1.Use of Chests Is Not Allowed\n2.Use of Anti-Camp Is Not Allowed\n3.Body-blocking Is Allowed As Long As It Is Not A Narrow Corridor Or Doorway (They Cannot Be Corner Trapped Etc) If This Occurs The Killer Can Only Hold The Survivor For A Maximum Of 10 Seconds",
 	"Tiers": [
@@ -3351,10 +3351,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -3420,10 +3417,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -3495,10 +3489,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -3574,12 +3565,8 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -3647,10 +3634,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -3728,10 +3712,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -3742,34 +3723,49 @@
 		{
 			"Name": "The Doctor",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"9",
+				"28"
 			],
 			"BalanceTiers": [
-				0
+				7
 			],
 			"SurvivorBalanceTiers": [
-				0
+				7
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"176",
+				"206",
+				"207"
+			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"26"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				138,
+				139
+			],
+			"ItemWhitelist": [
+				0,
+				4
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3784,8 +3780,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Huntress",
@@ -3852,10 +3855,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -3974,10 +3974,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -4043,10 +4040,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -4175,10 +4169,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -4251,10 +4242,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -4348,10 +4336,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -4417,10 +4402,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -4489,10 +4471,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -4505,9 +4484,9 @@
 			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivor: \n\n 1x Bloodied Blueprint\n 1x Annotated Blueprint\n 1x Vigo's Shroud\n 1x Shroud Of Binding",
 			"IsDisabled": false,
 			"Map": [
+				"0",
 				"14",
-				"15",
-				"39"
+				"15"
 			],
 			"BalanceTiers": [
 				3
@@ -4573,10 +4552,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -4650,10 +4626,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -4730,10 +4703,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -4808,10 +4778,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5
 			],
 			"KillerOfferings": [
@@ -4875,10 +4842,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -5039,10 +5003,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -5123,10 +5084,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -5197,10 +5155,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -5270,10 +5225,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -5353,10 +5305,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -5479,10 +5428,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -5558,10 +5504,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -5740,10 +5683,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
