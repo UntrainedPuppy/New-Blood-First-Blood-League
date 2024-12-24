@@ -1,6 +1,6 @@
 {
-	"Name": "New Blood,First Blood League NEW BETA TESTERS. (13/12/24)",
-	"Version": 1733909179,
+	"Name": "New Blood,First Blood League NEW BETA TESTERS. (23/12/24)",
+	"Version": 1734998371,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "1.Use of Chests Is Not Allowed\n2.Use of Anti-Camp Is Not Allowed\n3.Body-blocking Is Allowed As Long As It Is Not A Narrow Corridor Or Doorway (They Cannot Be Corner Trapped Etc) If This Occurs The Killer Can Only Hold The Survivor For A Maximum Of 10 Seconds",
 	"Tiers": [
@@ -4051,35 +4051,69 @@
 		},
 		{
 			"Name": "The Clown",
-			"KillerNotes": "",
-			"IsDisabled": true,
+			"KillerNotes": "Offerings Are As Follows:\n\nKiller: Cut Coin\n\nSurvivors:\n\nAnnotated Blueprint\nBloodied Blueprint\nVigo's Shroud\nShroud Of Binding\n\nFlashlight Is Allowed 2 Add Ons!!!",
+			"IsDisabled": false,
 			"Map": [
-				0
+				"8",
+				"15",
+				"20"
 			],
 			"BalanceTiers": [
-				0
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"172"
+			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"8",
+				"16",
+				"17",
+				"21",
+				"24",
+				"25",
+				"39",
+				"76",
+				"80",
+				"96",
+				"98",
+				"92",
+				"124",
+				"126",
+				"127",
+				"130"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				237,
+				238,
+				235,
+				236
+			],
+			"ItemWhitelist": [
+				0,
+				4
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -4094,8 +4128,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Spirit",
@@ -4802,7 +4843,11 @@
 				7
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"132",
+				"170",
+				"220"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"121"
@@ -4854,35 +4899,60 @@
 		},
 		{
 			"Name": "The Trickster",
-			"KillerNotes": "",
-			"IsDisabled": true,
+			"KillerNotes": "Offerings Are As Follows:\n\n\nKiller: Cut Coin\n\nSurvivors:\n\nAnnotated Blueprint\nBloodied Blueprint\nVigo's Shroud\nShroud Of Binding\n\nYou Are ALLOWED 2 Add Ons On The Flashlight! ",
+			"IsDisabled": false,
 			"Map": [
-				0
+				"8",
+				"33"
 			],
 			"BalanceTiers": [
-				0
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"172"
+			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"16",
+				"21",
+				"36",
+				"65",
+				"80",
+				"98",
+				"121",
+				"127",
+				"130"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				457,
+				453,
+				458
+			],
+			"ItemWhitelist": [
+				0,
+				4
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -4897,8 +4967,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Nemesis",
@@ -5565,35 +5642,56 @@
 		},
 		{
 			"Name": "The Good Guy",
-			"KillerNotes": "",
-			"IsDisabled": true,
+			"KillerNotes": "Offerings Are As Follows:\n\nKiller: Cut Coin\n\nSurvivors:\n\n\nVigo's Shroud\nShroud Of Binding\n\nFlashlight Can Bring 2 Add Ons!",
+			"IsDisabled": false,
 			"Map": [
-				0
+				"32"
 			],
 			"BalanceTiers": [
-				0
+				6
 			],
 			"SurvivorBalanceTiers": [
-				0
+				6
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"150",
+				"155",
+				"171",
+				"173",
+				"227"
+			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"16",
+				"21",
+				"116"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				678,
+				677,
+				668
+			],
+			"ItemWhitelist": [
+				4
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -5608,8 +5706,13 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Unknown",
