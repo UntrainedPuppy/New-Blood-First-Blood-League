@@ -1,6 +1,6 @@
 {
-	"Name": "New Blood,First Blood League NEW BETA TESTERS. (05/01/25))",
-	"Version": 1735756013,
+	"Name": "New Blood,First Blood League NEW BETA TESTERS. (08/01/25))",
+	"Version": 1735785409,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "1.Use of Chests Is Not Allowed\n2.Use of Anti-Camp Is Not Allowed\n3.Body-blocking Is Allowed As Long As It Is Not A Narrow Corridor Or Doorway (They Cannot Be Corner Trapped Etc) If This Occurs The Killer Can Only Hold The Survivor For A Maximum Of 10 Seconds",
 	"Tiers": [
@@ -514,6 +514,10 @@
 				[
 					"178",
 					"184"
+				],
+				[
+					"177",
+					"204"
 				]
 			]
 		},
@@ -528,6 +532,7 @@
 			"Name": "S Tier Balancing",
 			"SurvivorIndvPerkBans": [
 				"0",
+				"3",
 				"5",
 				"6",
 				"52",
@@ -596,6 +601,7 @@
 				"270",
 				"134",
 				"136",
+				"138",
 				"147",
 				"149",
 				"150",
@@ -934,6 +940,10 @@
 				[
 					"138",
 					"212"
+				],
+				[
+					"177",
+					"204"
 				]
 			]
 		},
@@ -941,6 +951,7 @@
 			"Name": "A Tier Balancing",
 			"SurvivorIndvPerkBans": [
 				"0",
+				"3",
 				"5",
 				"6",
 				"52",
@@ -1025,6 +1036,7 @@
 				"270",
 				"134",
 				"136",
+				"138",
 				"147",
 				"149",
 				"150",
@@ -1495,6 +1507,10 @@
 				[
 					"138",
 					"231"
+				],
+				[
+					"177",
+					"204"
 				]
 			]
 		},
@@ -1502,6 +1518,7 @@
 			"Name": "B Tier Balancing",
 			"SurvivorIndvPerkBans": [
 				"0",
+				"3",
 				"5",
 				"6",
 				"52",
@@ -1608,6 +1625,7 @@
 				"270",
 				"134",
 				"136",
+				"138",
 				"149",
 				"150",
 				"153",
@@ -2073,6 +2091,10 @@
 				[
 					"138",
 					"231"
+				],
+				[
+					"177",
+					"204"
 				]
 			]
 		},
@@ -2080,6 +2102,7 @@
 			"Name": "C Tier Balancing",
 			"SurvivorIndvPerkBans": [
 				"0",
+				"3",
 				"5",
 				"6",
 				"52",
@@ -2189,6 +2212,7 @@
 				"270",
 				"134",
 				"136",
+				"138",
 				"149",
 				"153",
 				"155",
@@ -2642,6 +2666,10 @@
 				[
 					"212",
 					"231"
+				],
+				[
+					"177",
+					"204"
 				]
 			]
 		},
@@ -3143,6 +3171,10 @@
 				[
 					"178",
 					"184"
+				],
+				[
+					"177",
+					"204"
 				]
 			]
 		},
@@ -3150,6 +3182,7 @@
 			"Name": "E Tier Balancing",
 			"SurvivorIndvPerkBans": [
 				"0",
+				"3",
 				"5",
 				"6",
 				"52",
@@ -3689,6 +3722,10 @@
 				[
 					"178",
 					"184"
+				],
+				[
+					"177",
+					"204"
 				]
 			]
 		}
@@ -3870,7 +3907,9 @@
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
-			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedPerks": [
+				"172"
+			],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
@@ -5007,8 +5046,11 @@
 				"34",
 				"36",
 				"38",
+				"44",
 				"261",
 				"57",
+				"61",
+				"109",
 				"112",
 				"121",
 				"127",
