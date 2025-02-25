@@ -1,6 +1,6 @@
 {
 	"Name": "New Blood,First Blood League NEW BETA TESTERS. (27/01/25))",
-	"Version": 1740498264,
+	"Version": 1740499375,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "1.Use of Chests Is Not Allowed\n2.Use of Anti-Camp Is Not Allowed\n3.Body-blocking Is Allowed As Long As It Is Not A Narrow Corridor Or Doorway (They Cannot Be Corner Trapped Etc) If This Occurs The Killer Can Only Hold The Survivor For A Maximum Of 10 Seconds",
 	"Tiers": [
@@ -3455,9 +3455,10 @@
 		{
 			"Name": "The Trapper",
 			"KillerNotes": "Only 3 Perks Per Survivor When Going Against This Killer!!!\n\n\nOfferings Are As Follows:\n\n Killer: 1x Cut Coin\n\n Survivor:\n\n 1x Annotated Blueprint\n 1x Bloodied Blueprint\n 1x Vigo's Shroud\n 1x Shroud Of Binding",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				"33"
+				"35",
+				"36"
 			],
 			"BalanceTiers": [
 				0
@@ -3466,17 +3467,7 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"132",
-				"163",
-				"178",
-				"180",
-				"192",
-				"196",
-				"204",
-				"214",
-				"231"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"0",
@@ -3492,6 +3483,7 @@
 				"258",
 				"9",
 				"104",
+				"10",
 				"11",
 				"12",
 				"13",
@@ -3515,7 +3507,9 @@
 				"28",
 				"273",
 				"29",
+				"30",
 				"31",
+				"32",
 				"33",
 				"34",
 				"248",
@@ -3534,12 +3528,14 @@
 				"267",
 				"46",
 				"261",
+				"101",
 				"47",
 				"48",
 				"49",
 				"50",
 				"51",
 				"262",
+				"53",
 				"54",
 				"55",
 				"56",
@@ -3550,6 +3546,7 @@
 				"59",
 				"61",
 				"62",
+				"63",
 				"64",
 				"65",
 				"66",
@@ -3560,6 +3557,7 @@
 				"259",
 				"269",
 				"71",
+				"72",
 				"73",
 				"74",
 				"75",
@@ -3574,6 +3572,7 @@
 				"84",
 				"85",
 				"86",
+				"87",
 				"88",
 				"89",
 				"90",
@@ -3588,6 +3587,7 @@
 				"100",
 				"92",
 				"102",
+				"103",
 				"275",
 				"105",
 				"106",
@@ -3605,11 +3605,14 @@
 				"115",
 				"116",
 				"117",
+				"118",
 				"119",
 				"120",
 				"121",
 				"122",
+				"123",
 				"124",
+				"125",
 				"126",
 				"127",
 				"128",
@@ -3624,23 +3627,16 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				18,
-				17
+				17,
+				18
 			],
-			"ItemWhitelist": [
-				4
-			],
+			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
+					"Addons": []
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3946,25 +3942,173 @@
 		},
 		{
 			"Name": "The Shape",
-			"KillerNotes": "Offerings Are As Follows: \n\nKiller: 1x Cut Coin\n\nSurvivor: \n\n1x Vigo's Shroud\n1x Annotated Blueprint\n1x Bloodied Blueprint\n1x Shroud Of Binding ",
-			"IsDisabled": true,
+			"KillerNotes": "MANDATORY:\n\nSCRATCHED MIRROR OR INFINITE TIER 3",
+			"IsDisabled": false,
 			"Map": [
-				"20"
+				"32"
 			],
 			"BalanceTiers": [
-				0,
-				6
+				0
 			],
 			"SurvivorBalanceTiers": [
-				0,
-				6
+				0
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"198"
+				"163"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"0",
+				"1",
+				"2",
+				"3",
+				"4",
+				"5",
+				"6",
+				"52",
+				"7",
+				"8",
+				"258",
+				"9",
+				"104",
+				"10",
+				"11",
+				"12",
+				"13",
+				"14",
+				"15",
+				"16",
+				"17",
+				"18",
+				"247",
+				"19",
+				"20",
+				"21",
+				"22",
+				"23",
+				"24",
+				"25",
+				"26",
+				"60",
+				"246",
+				"27",
+				"28",
+				"273",
+				"29",
+				"30",
+				"31",
+				"32",
+				"33",
+				"34",
+				"248",
+				"35",
+				"36",
+				"37",
+				"38",
+				"39",
+				"40",
+				"41",
+				"42",
+				"43",
+				"44",
+				"45",
+				"268",
+				"267",
+				"46",
+				"261",
+				"101",
+				"47",
+				"48",
+				"49",
+				"50",
+				"51",
+				"262",
+				"53",
+				"54",
+				"55",
+				"56",
+				"57",
+				"274",
+				"252",
+				"58",
+				"59",
+				"61",
+				"62",
+				"63",
+				"64",
+				"65",
+				"66",
+				"67",
+				"68",
+				"69",
+				"70",
+				"259",
+				"269",
+				"71",
+				"72",
+				"73",
+				"74",
+				"75",
+				"76",
+				"77",
+				"78",
+				"79",
+				"80",
+				"81",
+				"82",
+				"83",
+				"84",
+				"85",
+				"86",
+				"87",
+				"88",
+				"89",
+				"90",
+				"91",
+				"93",
+				"94",
+				"95",
+				"96",
+				"97",
+				"98",
+				"99",
+				"100",
+				"92",
+				"102",
+				"103",
+				"275",
+				"105",
+				"106",
+				"107",
+				"108",
+				"109",
+				"110",
+				"263",
+				"111",
+				"112",
+				"113",
+				"260",
+				"114",
+				"253",
+				"115",
+				"116",
+				"117",
+				"118",
+				"119",
+				"120",
+				"121",
+				"122",
+				"123",
+				"124",
+				"125",
+				"126",
+				"127",
+				"128",
+				"254",
+				"129",
+				"130"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -3972,25 +4116,30 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
+				80,
+				81,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				93,
+				94,
 				95,
-				96,
+				97,
 				98
 			],
-			"ItemWhitelist": [
-				0,
-				4
-			],
+			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
+					"Addons": []
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -4322,25 +4471,38 @@
 		},
 		{
 			"Name": "The Huntress",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivor:\n\n 1x Vigo's Shroud\n 1x Shroud Of Binding\n 1x Annotated Blueprint\n 1x Bloodied Blueprint",
+			"KillerNotes": "WHEN PLAYING ON TREATMENT THEATRE AS HUNTRESS THE FOLLOWING IS REQUIRED:\n\nWOODEN FOX\nIRIDESCENT HEAD\n\nALL OTHER MAPS FOLLOW THE REGULAR BALANCING FOR HUNTRESS. ",
 			"IsDisabled": true,
 			"Map": [
+				"0",
 				"8",
-				"13"
+				"20"
 			],
 			"BalanceTiers": [
-				0,
-				4
+				0
 			],
 			"SurvivorBalanceTiers": [
-				0,
-				4
+				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"163"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"17"
+				"13",
+				"21",
+				"246",
+				"34",
+				"36",
+				"38",
+				"44",
+				"76",
+				"96",
+				"109",
+				"121",
+				"127",
+				"128"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -5543,8 +5705,8 @@
 			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors:\n\n 1x Annotated Blueprint\n 1x Bloodied Blueprint\n 2x Vigo's Shroud\n",
 			"IsDisabled": false,
 			"Map": [
+				"2",
 				"4",
-				"6",
 				"7"
 			],
 			"BalanceTiers": [
