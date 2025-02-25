@@ -1,6 +1,6 @@
 {
-	"Name": "New Blood,First Blood League NEW BETA TESTERS. (26/01/25))",
-	"Version": 1740479281,
+	"Name": "New Blood,First Blood League NEW BETA TESTERS. (27/01/25))",
+	"Version": 1740498264,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "1.Use of Chests Is Not Allowed\n2.Use of Anti-Camp Is Not Allowed\n3.Body-blocking Is Allowed As Long As It Is Not A Narrow Corridor Or Doorway (They Cannot Be Corner Trapped Etc) If This Occurs The Killer Can Only Hold The Survivor For A Maximum Of 10 Seconds",
 	"Tiers": [
@@ -3681,7 +3681,9 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"163"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"1",
@@ -3874,6 +3876,7 @@
 				"204",
 				"212",
 				"214",
+				"217",
 				"220",
 				"231"
 			],
@@ -3883,7 +3886,9 @@
 					"210"
 				]
 			],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"13"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -4874,6 +4879,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"13",
+				"38",
 				"58",
 				"96"
 			],
@@ -5046,8 +5052,10 @@
 				"34",
 				"36",
 				"38",
+				"53",
 				"76",
-				"121"
+				"121",
+				"128"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -5314,7 +5322,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"128"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -5390,6 +5399,7 @@
 				"21",
 				"246",
 				"34",
+				"36",
 				"38",
 				"44",
 				"57",
@@ -5473,6 +5483,7 @@
 				"21",
 				"246",
 				"34",
+				"36",
 				"38",
 				"57",
 				"76",
@@ -6099,9 +6110,7 @@
 			"IsDisabled": false,
 			"Map": [
 				"32",
-				"34",
-				"35",
-				"36"
+				"34"
 			],
 			"BalanceTiers": [
 				0
@@ -6426,10 +6435,12 @@
 				"13",
 				"21",
 				"34",
+				"36",
 				"38",
 				"96",
 				"121",
-				"127"
+				"127",
+				"128"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -6507,11 +6518,13 @@
 				"13",
 				"21",
 				"34",
+				"36",
 				"38",
 				"76",
 				"96",
 				"121",
-				"127"
+				"127",
+				"128"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -6588,11 +6601,13 @@
 				"21",
 				"246",
 				"34",
+				"36",
 				"38",
 				"76",
 				"96",
 				"121",
-				"127"
+				"127",
+				"128"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -6681,7 +6696,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"128"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -6737,57 +6753,44 @@
 		{
 			"Name": "The Lich",
 			"KillerNotes": "Offerings Are As Follows:\n\nKiller: Cut Coin\n\nSurvivor: Annotated Blueprint\n          Bloodied Blueprint\n          Vigo's Shroud\n          Shroud Of Binding\n",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				"42",
+				"0",
+				"11",
 				"33"
 			],
 			"BalanceTiers": [
-				0,
-				7
+				0
 			],
 			"SurvivorBalanceTiers": [
-				0,
-				7
+				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"138",
-				"150",
-				"151",
-				"155",
-				"174",
-				"178",
-				"180",
-				"183",
-				"184",
-				"186",
-				"265",
-				"194",
-				"205",
-				"211",
-				"227",
-				"242"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"8",
+				"13",
 				"21",
-				"53",
-				"102",
-				"112"
+				"246",
+				"34",
+				"36",
+				"38",
+				"44",
+				"57",
+				"61",
+				"65",
+				"76",
+				"96",
+				"92",
+				"109",
+				"112",
+				"121",
+				"127",
+				"128"
 			],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [
-				"1",
-				"3",
-				"39",
-				"44",
-				"48",
-				"50",
-				"65",
-				"71"
-			],
+			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
@@ -6795,11 +6798,12 @@
 			"IndividualAddonBans": [
 				713,
 				704,
-				716
+				716,
+				718
 			],
 			"ItemWhitelist": [
 				0,
-				4
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -6865,9 +6869,11 @@
 				"13",
 				"21",
 				"34",
+				"36",
 				"38",
 				"58",
-				"121"
+				"121",
+				"128"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -6944,11 +6950,13 @@
 				"13",
 				"21",
 				"34",
+				"36",
 				"38",
 				"76",
 				"96",
 				"121",
-				"127"
+				"127",
+				"128"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
