@@ -1,6 +1,6 @@
 {
-	"Name": "New Blood,First Blood League NEW BETA TESTERS. (27/01/25))",
-	"Version": 1740499375,
+	"Name": "New Blood,First Blood League NEW BETA TESTERS. (29/01/25))",
+	"Version": 1742823094,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "1.Use of Chests Is Not Allowed\n2.Use of Anti-Camp Is Not Allowed\n3.Body-blocking Is Allowed As Long As It Is Not A Narrow Corridor Or Doorway (They Cannot Be Corner Trapped Etc) If This Occurs The Killer Can Only Hold The Survivor For A Maximum Of 10 Seconds",
 	"Tiers": [
@@ -5233,8 +5233,7 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5,
-				10
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -5817,6 +5816,7 @@
 				"21",
 				"246",
 				"34",
+				"36",
 				"38",
 				"39",
 				"57",
@@ -5826,6 +5826,7 @@
 				"92",
 				"109",
 				"121",
+				"127",
 				"128"
 			],
 			"SurvivorComboPerkBans": [],
