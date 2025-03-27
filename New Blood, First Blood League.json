@@ -1,6 +1,6 @@
 {
-	"Name": "New Blood,First Blood League NEW BETA TESTERS. (29/01/25))",
-	"Version": 1742823094,
+	"Name": "New Blood,First Blood League NEW BETA TESTERS. (30/01/25))",
+	"Version": 1743050295,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "1.Use of Chests Is Not Allowed\n2.Use of Anti-Camp Is Not Allowed\n3.Body-blocking Is Allowed As Long As It Is Not A Narrow Corridor Or Doorway (They Cannot Be Corner Trapped Etc) If This Occurs The Killer Can Only Hold The Survivor For A Maximum Of 10 Seconds",
 	"Tiers": [
@@ -143,7 +143,6 @@
 				"188",
 				"190",
 				"191",
-				"192",
 				"194",
 				"256",
 				"195",
@@ -4942,7 +4941,6 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"8",
 				"13",
 				"21",
 				"34",
@@ -5186,7 +5184,7 @@
 			"Map": [
 				"4",
 				"5",
-				"11"
+				"30"
 			],
 			"BalanceTiers": [
 				0
@@ -5286,7 +5284,9 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"163"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"1",
@@ -5719,6 +5719,7 @@
 				"132",
 				"142",
 				"163",
+				"172",
 				"177",
 				"178",
 				"264",
@@ -6282,7 +6283,9 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"163"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"1",
@@ -6366,9 +6369,9 @@
 			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivor:\n \n 1x Annotated Blueprint\n 1x Bloodied Blueprint\n 1x Vigo's Shroud\n 1x Shroud Of Binding",
 			"IsDisabled": false,
 			"Map": [
-				"0",
 				"8",
-				"9"
+				"9",
+				"49"
 			],
 			"BalanceTiers": [
 				0
@@ -6932,7 +6935,6 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"8",
 				"13",
 				"21",
 				"246",
@@ -7010,7 +7012,7 @@
 			"Map": [
 				"0",
 				"9",
-				"11"
+				"50"
 			],
 			"BalanceTiers": [
 				0
@@ -7137,6 +7139,94 @@
 			"ItemWhitelist": [
 				0,
 				5
+			],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [
+				0,
+				2,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
+		},
+		{
+			"Name": "The Ghoul",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				"4",
+				"8",
+				"16"
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [
+				"163",
+				"276",
+				"277",
+				"278"
+			],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"13",
+				"21",
+				"34",
+				"36",
+				"38",
+				"76",
+				"96",
+				"109",
+				"121",
+				"127",
+				"128"
+			],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [
+				777,
+				778,
+				773,
+				772,
+				771
+			],
+			"ItemWhitelist": [
+				5,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
