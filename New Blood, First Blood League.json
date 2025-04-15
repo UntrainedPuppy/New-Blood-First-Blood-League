@@ -1,6 +1,6 @@
 {
-	"Name": "New Blood,First Blood League NEW BETA TESTERS. (07/04/25))",
-	"Version": 1744684201,
+	"Name": "New Blood,First Blood League NEW BETA TESTERS. (17/04/25))",
+	"Version": 1744686661,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "1.Use of Chests Is Not Allowed\n2.Use of Anti-Camp Is Not Allowed\n3.Body-blocking Is Allowed As Long As It Is Not A Narrow Corridor Or Doorway (They Cannot Be Corner Trapped Etc) If This Occurs The Killer Can Only Hold The Survivor For A Maximum Of 10 Seconds",
 	"Tiers": [
@@ -6581,8 +6581,8 @@
 			"KillerNotes": "Offerings Are As Follows:\n\n Killer: 1x Cut Coin\n\n Survivor:\n\n 1x Annotated Blueprint\n 1x Bloodied Blueprint\n 1x Vigo's Shroud\n 1x Shroud Of Binding",
 			"IsDisabled": false,
 			"Map": [
-				"43",
 				"8",
+				"31",
 				"33"
 			],
 			"BalanceTiers": [
