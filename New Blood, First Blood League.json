@@ -1,6 +1,6 @@
 {
-	"Name": "Scars Don't Fade NB Shared Balance TIERS 5",
-	"Version": 1756459061,
+	"Name": "Scars Don't Fade NB Shared Balance TIERS 6",
+	"Version": 1758817081,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -30,13 +30,11 @@
 				"60",
 				"27",
 				"28",
-				"286",
 				"288",
 				"33",
 				"248",
 				"40",
 				"41",
-				"279",
 				"43",
 				"280",
 				"268",
@@ -58,7 +56,6 @@
 				"67",
 				"269",
 				"73",
-				"74",
 				"77",
 				"79",
 				"81",
@@ -74,7 +71,6 @@
 				"98",
 				"99",
 				"100",
-				"102",
 				"275",
 				"105",
 				"108",
@@ -91,7 +87,6 @@
 				"120",
 				"122",
 				"124",
-				"126",
 				"254",
 				"130"
 			],
@@ -101,9 +96,9 @@
 				"270",
 				"134",
 				"136",
-				"245",
 				"137",
 				"147",
+				"144",
 				"149",
 				"150",
 				"155",
@@ -138,6 +133,7 @@
 				"284",
 				"209",
 				"211",
+				"292",
 				"216",
 				"219",
 				"223",
@@ -146,7 +142,9 @@
 				"227",
 				"228",
 				"231",
+				"235",
 				"238",
+				"293",
 				"257",
 				"241",
 				"242"
@@ -157,20 +155,8 @@
 					"78"
 				],
 				[
-					"36",
-					"121"
-				],
-				[
 					"38",
 					"92"
-				],
-				[
-					"50",
-					"128"
-				],
-				[
-					"110",
-					"121"
 				],
 				[
 					"1",
@@ -240,6 +226,7 @@
 			"Name": "Tier 1",
 			"SurvivorIndvPerkBans": [],
 			"KillerIndvPerkBans": [
+				"245",
 				"163",
 				"170",
 				"282",
@@ -276,6 +263,7 @@
 				"128"
 			],
 			"KillerIndvPerkBans": [
+				"245",
 				"163",
 				"170"
 			],
@@ -306,6 +294,7 @@
 				"128"
 			],
 			"KillerIndvPerkBans": [
+				"245",
 				"163"
 			],
 			"SurvivorComboPerkBans": [],
@@ -340,7 +329,9 @@
 				"127",
 				"128"
 			],
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"245"
+			],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
 		},
@@ -452,7 +443,9 @@
 				5
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"245"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -2111,7 +2104,7 @@
 		{
 			"Name": "The Onryo",
 			"KillerNotes": "\n\nOfferings:\n\n\n1x Vigo's Shroud",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"20",
 				"32",
@@ -2996,6 +2989,88 @@
 					"Addons": []
 				},
 				"Map": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
+		},
+		{
+			"Name": "The Krasue",
+			"KillerNotes": "Killer Offerings: 1x Cut Coin\n\nSurvivor Offerings:\n\n1x Torn Blueprint\n1x Annotated Blueprint\n2x Vigo's Shroud",
+			"IsDisabled": false,
+			"Map": [
+				"4",
+				"5",
+				"9",
+				"16",
+				"22"
+			],
+			"BalanceTiers": [
+				0,
+				1
+			],
+			"SurvivorBalanceTiers": [
+				0,
+				1
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [
+				"159",
+				"249"
+			],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"38",
+				"121"
+			],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [
+				813,
+				814,
+				815,
+				816,
+				817,
+				818
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": [
+						2,
+						4
+					]
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
 					"Addons": []
 				}
 			},
