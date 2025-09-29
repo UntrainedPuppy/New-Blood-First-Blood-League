@@ -1,6 +1,6 @@
 {
-	"Name": "Scars Don't Fade NB Shared Balance TIERS 6",
-	"Version": 1758817081,
+	"Name": "Scars Don't Fade NB Shared Balance TIERS 7",
+	"Version": 1759144004,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -97,6 +97,7 @@
 				"134",
 				"136",
 				"137",
+				"138",
 				"147",
 				"144",
 				"149",
@@ -219,6 +220,10 @@
 				[
 					"229",
 					"249"
+				],
+				[
+					"170",
+					"220"
 				]
 			]
 		},
@@ -279,6 +284,7 @@
 				"36",
 				"38",
 				"39",
+				"279",
 				"50",
 				"57",
 				"69",
@@ -311,6 +317,7 @@
 				"36",
 				"38",
 				"39",
+				"279",
 				"44",
 				"50",
 				"57",
@@ -340,30 +347,38 @@
 			"SurvivorIndvPerkBans": [
 				"1",
 				"8",
+				"10",
+				"14",
 				"21",
 				"246",
 				"273",
+				"29",
 				"34",
 				"36",
 				"38",
 				"39",
+				"279",
 				"44",
 				"50",
 				"57",
 				"61",
 				"65",
 				"69",
+				"74",
 				"76",
+				"78",
 				"80",
 				"95",
 				"96",
 				"92",
 				"102",
+				"103",
 				"107",
 				"109",
 				"110",
 				"112",
 				"121",
+				"126",
 				"127",
 				"128"
 			],
@@ -504,7 +519,9 @@
 				"6",
 				"7",
 				"13",
-				"52"
+				"16",
+				"52",
+				"47"
 			],
 			"BalanceTiers": [
 				0,
@@ -579,6 +596,8 @@
 			"Map": [
 				"0",
 				"8",
+				"12",
+				"29",
 				"33",
 				"54",
 				"56"
@@ -1142,10 +1161,14 @@
 			"IsDisabled": false,
 			"Map": [
 				"0",
+				"4",
 				"5",
 				"8",
+				"10",
+				"14",
+				"33",
 				"54",
-				"47"
+				"56"
 			],
 			"BalanceTiers": [
 				0,
@@ -1528,15 +1551,23 @@
 		{
 			"Name": "The Oni",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"42",
+				"11",
+				"14",
+				"28",
+				"49",
+				"48",
+				"41"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				5
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				5
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -1548,14 +1579,23 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				357,
+				358
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1570,8 +1610,14 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Deathslinger",
@@ -2104,11 +2150,13 @@
 		{
 			"Name": "The Onryo",
 			"KillerNotes": "\n\nOfferings:\n\n\n1x Vigo's Shroud",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"20",
 				"32",
-				"34"
+				"34",
+				"36",
+				"48"
 			],
 			"BalanceTiers": [
 				0,
@@ -2847,7 +2895,9 @@
 				"44",
 				"46",
 				"6",
-				"52"
+				"52",
+				"38",
+				"47"
 			],
 			"BalanceTiers": [
 				0,
@@ -3022,14 +3072,26 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"132",
+				"135",
+				"145",
 				"159",
+				"160",
+				"164",
+				"169",
+				"172",
+				"181",
+				"183",
+				"161",
+				"210",
+				"213",
+				"217",
+				"221",
+				"233",
 				"249"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"38",
-				"121"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -3042,7 +3104,11 @@
 				815,
 				816,
 				817,
-				818
+				818,
+				804,
+				810,
+				812,
+				806
 			],
 			"ItemWhitelist": [
 				0,
