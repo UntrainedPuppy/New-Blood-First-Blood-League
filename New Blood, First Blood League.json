@@ -1,6 +1,6 @@
 {
-	"Name": "Scars Don't Fade NB Shared Balance TIERS 8",
-	"Version": 1759144819,
+	"Name": "Scars Don't Fade NB Shared Balance TIERS 9",
+	"Version": 1759226537,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -236,6 +236,7 @@
 				"170",
 				"282",
 				"177",
+				"194",
 				"196",
 				"204",
 				"214",
@@ -270,7 +271,8 @@
 			"KillerIndvPerkBans": [
 				"245",
 				"163",
-				"170"
+				"170",
+				"194"
 			],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
@@ -301,7 +303,8 @@
 			],
 			"KillerIndvPerkBans": [
 				"245",
-				"163"
+				"163",
+				"194"
 			],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
